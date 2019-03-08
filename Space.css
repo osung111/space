@@ -1,0 +1,47 @@
+.intro1{
+
+    
+      margin-top: 10px;
+      vertical-align: middle;
+      width:40%;
+
+      float:left;
+
+
+}
+.intro1 img {
+  width:60%;
+  
+}
+
+
+
+
+
+.intro2 {
+  float:right;
+  width:60%;
+  height:100%;
+  text-align: center;
+  background-color:white;
+  box-shadow: 0 8px 38px rgba(133, 133, 133, 0.3), 0 5px 12px rgba(133, 133, 133,0.22);
+  opacity: 0.9;
+  border-radius: 10px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+
+.little_space{
+
+    display: flex;
+    margin-bottom:50px;
+    text-overflow: ellipsis;
+     width:40%;
+    height:20%;
+    margin: auto;
+
+    display: inline-block;
+}
+
+
